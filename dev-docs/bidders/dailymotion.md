@@ -50,6 +50,8 @@ config.setConfig({
     }
   });
 ```
+Please note that failing to set these configuration options will result in the adapter not bidding at all.
+## Sample video AdUnit
 ```
  var adUnits = [
   {
@@ -67,4 +69,4 @@ config.setConfig({
       }];
 ```
 
-Please note that failing to set these configuration options will result in the adapter not bidding at all.
+
