@@ -40,7 +40,7 @@ config.setConfig({
 This call must be made before each auction. Here's a description of each parameter:
 * `api_key` is your publisher API key. For testing purpose, you can use "dailymotion-testing".
 * `position` parameter is the ad position in the video and must either be "preroll", "midroll" or "postroll".
-* `xid` is the video XID and should be provided to have better contextual data and higher fillrate
+* `xid` is the Dailymotion video identifier and should be provided to have better contextual data and higher fillrate.
 
 # Test Parameters
 
