@@ -66,7 +66,7 @@ const adUnits = [
     mediaTypes: {
       video: {
         context: 'instream',
-        playerSize: [640, 480],
+        playerSize: [1280, 720],
       },
     },
     bids: [{
