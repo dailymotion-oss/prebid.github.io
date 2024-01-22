@@ -19,7 +19,7 @@ ortb_blocking_supported: false
 
 ### Registration
 
-To use the adapter with any non-test request, you first need to ask an API key from Dailymotion. Please contact on **ad-leo-engineering@dailymotion.com**.
+To use the adapter with any non-test request, you first need to ask an API key from Dailymotion. Please contact us through **DailymotionPrebid.js@dailymotion.com**.
 
 This API key will ensure proper identification of your inventory and allow you to get real bids.
 
